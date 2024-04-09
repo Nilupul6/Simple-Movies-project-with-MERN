@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Inception",
+        "description": "A mind-bending journey into the world of dreams.",
+        "duration": 148,
+        "rating": 8.8,
+        "totalRating": 34567,
+        "releaseYear": 2010,
+        "releaseDate": 1595740800000, 
+        "createdAt": "2024-03-26T08:00:00.000Z", 
+        "genres": ["Science Fiction", "Action", "Thriller"],
+        "directors": ["Christopher Nolan"],
+        "coverImage": ["https://example.com/inception-cover.jpg"],
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "price": 9.99
+      },
+      {
+        "name": "The Dark Knight",
+        "description": "A gripping tale of chaos and heroism in Gotham City.",
+        "duration": 152,
+        "rating": 9.0,
+        "totalRating": 45678,
+        "releaseYear": 2008,
+        "releaseDate": 1217568000000, 
+        "createdAt": "2024-03-26T10:00:00.000Z",
+        "genres": ["Action", "Crime", "Drama"],
+        "directors": ["Christopher Nolan"],
+        "coverImage": ["https://example.com/dark-knight-cover.jpg"],
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "price": 12.99
+      },
+      {
+        "name": "Stranger Things",
+        "description": "A thrilling sci-fi series set in the 1980s with mysterious occurrences in a small town.",
+        "duration": 60,
+        "rating": 8.7,
+        "totalRating": 56789,
+        "releaseYear": 2016,
+        "releaseDate": 1467331200000, 
+        "createdAt": "2024-03-26T12:00:00.000Z",
+        "genres": ["Drama", "Fantasy", "Horror"],
+        "directors": ["The Duffer Brothers"],
+        "coverImage": ["https://example.com/stranger-things-cover.jpg"],
+        "actors": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+        "price": 19.99
+      },
+      {
+        "name": "Our Planet",
+        "description": "A breathtaking exploration of Earth's natural wonders and the impact of human activity.",
+        "duration": 50,
+        "rating": 9.3,
+        "totalRating": 67890,
+        "releaseYear": 2019,
+        "releaseDate": 1554067200000, 
+        "createdAt": "2024-03-26T14:00:00.000Z",
+        "genres": ["Documentary"],
+        "directors": ["Alastair Fothergill", "Keith Scholey"],
+        "coverImage": ["https://example.com/our-planet-cover.jpg"],
+        "actors": [],
+        "price": 14.99
+      },
+      {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "description": "An open-world adventure game where players explore the vast kingdom of Hyrule.",
+        "duration": 120,
+        "rating": 9.5,
+        "totalRating": 78901,
+        "releaseYear": 2017,
+        "releaseDate": 1488326400000, 
+        "createdAt": "2024-03-26T16:00:00.000Z",
+        "genres": ["Action", "Adventure"],
+        "directors": ["Hidemaro Fujibayashi"],
+        "coverImage": ["https://example.com/zelda-breath-of-the-wild-cover.jpg"],
+        "actors": ["Link"],
+        "price": 49.99
+      }
+      
+      
+      
+
+      
+      
+]

@@ -1,0 +1,7 @@
+tests
+.gitignore
+.jshintrc
+.travis.yml
+gulpfile.js
+/validators.js
+/validators.min.js
