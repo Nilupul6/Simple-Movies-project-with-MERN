@@ -1,2 +1,2 @@
-# Simple-Movies-poject-with-mongo-express-react-node
+# Simple-Movies-project-with-mongo-express-react-node
  
